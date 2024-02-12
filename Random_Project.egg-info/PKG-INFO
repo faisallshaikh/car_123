@@ -7,3 +7,5 @@ Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: ipykernel
 Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
