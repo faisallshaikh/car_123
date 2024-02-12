@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Random-Project
+Version: 0.0.1
+Author: BOT
+Author-email: phewpheww123@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: ipykernel
+Requires-Dist: scikit-learn
