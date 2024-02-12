@@ -33,3 +33,5 @@ for file in list_of_files:
         with open(full_path, 'w') as f:
             print(f"File created {filename}") 
             logging.info(f"File created {filename}")
+
+
