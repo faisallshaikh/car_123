@@ -12,7 +12,8 @@ list_of_files = [
     "\\src\\pipeline\\__init__.py",
     "\\src\\exception_file.py",
     "\\src\\logger.py",
-    "\\src\\components\\data_ingestion.py"
+    "\\src\\components\\data_ingestion.py",
+    "\\src\\notebooks\\EDA.ipynb"
 ]
 
 for file in list_of_files:
